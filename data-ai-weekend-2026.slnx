@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Artifacts/">
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+    <File Path="slides\index.html" />
+  </Folder>
+  <Project Path="src/AgentHarness/AgentHarness.csproj" />
+  <Project Path="src/AgentSimples/AgentSimples.csproj" />
+  <Project Path="src/LoopEngineering/LoopEngineering.csproj" />
+</Solution>
